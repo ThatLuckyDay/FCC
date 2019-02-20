@@ -1,5 +1,5 @@
 {
-	"author": "fccc16d6283-0748-4aca-a87d-1403e940117a",
+	"author": "ThatLuckyDay",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
